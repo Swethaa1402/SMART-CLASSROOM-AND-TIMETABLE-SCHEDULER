@@ -1,4 +1,4 @@
-\# Smart Classroom and Timetable Scheduler
+# Smart Classroom and Timetable Scheduler
 
 
 
